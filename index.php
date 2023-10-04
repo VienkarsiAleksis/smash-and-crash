@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <button id="btn_smash">Smash</button>
+    <button id="btn_crash">Crash</button>
 </body>
 </html>
